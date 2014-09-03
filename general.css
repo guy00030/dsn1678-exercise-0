@@ -1,9 +1,47 @@
+html{
+}
+
+main{
+	width: 50%;
+	margin: 0 auto;
+}
 
 h1{
+	font-size: 3em;
 	text-align: center;
+	color: purple;
+}
+
+h2{
+	color: pink;
+}
+
+blockquote{
+	color: grey;
 }
 
 img{
-	width: 50%;
-	margin: 0, auto;
+	width: 70%;
+}
+
+p{
+}
+
+figure{
+	text-align: center;
+}
+
+figcaption{
+	color: grey;
+	font-size: .75rem;
+	padding-bottom: 1rem;
+}
+
+li{
+	list-style: none;
+	margin-left: -2em;
+}
+
+a{
+	text-decoration: none;
 }
